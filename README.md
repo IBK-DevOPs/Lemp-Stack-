@@ -183,8 +183,9 @@
 
 ### The output is like Welcome to Nginx and thank you for using Nginx at the end of the return.
 
-STEP 2
-## INSTALLATION OF MYSQL
+## STEP 2
+
+### INSTALLATION OF MYSQL
 
 ### MYSQL is our database management system to be able to store and manage data for our website
 #### Run below code
